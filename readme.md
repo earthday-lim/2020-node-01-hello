@@ -16,3 +16,4 @@ git config --global user.name 'earthday-lim'
 git config --global user.email 'ssw3832@naver.com'
 ```
 ## 6. https://www.npmjs.com/ = 자바스크립트 오픈소스 저장소
+## 7. commit은 내 컴퓨터에 저장, push는 github에 저장
